@@ -1,0 +1,11 @@
+.bg-transparent {
+    background-color: transparent;
+}
+
+#carouselExampleControls {
+    height: 32rem;
+}
+
+.h-60 {
+    height: 60%;
+}
