@@ -2,10 +2,27 @@
     background-color: transparent;
 }
 
-#carouselExampleControls {
-    height: 32rem;
+.h-60 {
+    max-width: 100%;
+    max-height: 80%;
 }
 
-.h-60 {
-    height: 60%;
+.bg-black {
+    background-color: black;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+@media (max-width: 575px) {
+    .cabold700 {
+        text-align: center;
+    }
+    .image-principal {
+        width: 100%;
+    }
+    .presentacion {
+        display: none;
+    }
 }
